@@ -422,7 +422,8 @@ article .icon {
 }
 
 .email-icon {
-  height: 2.5rem;
+  max-height: 1.5rem;
+  
 }
 
 /* FOOTER SECTION */
